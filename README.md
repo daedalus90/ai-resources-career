@@ -1,4 +1,4 @@
-# ai-resources-career
+# A Practical Guide To Using A.I.
 Over the next few years we're going to see a huge change in way we live and work as A.I. and Machine Learning systems work their way into all aspects of our lives.
 
 In order to stay ahead of the curve, and avoid being overwhelmed with these new technologies, I've put together this list of ressources to help get you from zero to being able to leverage A.I. to it's fullest.
