@@ -6,16 +6,19 @@ In order to stay ahead of the curve, and avoid being overwhelmed with these new 
 This guide is for the practical use of A.I., not engineering or building A.I. or Machine Learning systems youself. 
 
 ## How to use this guide
-- This guide is meant be be consumed top to bottom, with foundational content at the beginning, and more advanced content towards the bottom. If you find the content to be rudimentary, feel free to skip down. I've include various formats of content, books, videos, articles, podcasts, etc. Each is labeled with their content type.
+This guide is meant be be consumed top to bottom, with foundational content at the beginning, and more advanced content towards the bottom. If you find the content to be rudimentary, feel free to skip down. I've include various formats of content, books, videos, articles, podcasts, etc. Each is labeled with their content type.
 
 ## Introduction to A.I. in 2023
 * (Tool) [ChatGPT](https://openai.com/blog/chatgpt/): This tool kicked off the current renaissance of A.I., and brought A.I. mainstream. It is built by the company OpenAI, which has several A.I. models it offers, from text to image generation. I encourage you to sign up and start leveraging ChatGPT in your daily life/work, ask it to summarize articles for you, ask it for help writing code, ask it for help generating content for your resume. Start using it and get a feel for how to write prompts to get an A.I. to generate the content you want.
   * (YouTube) [How To Use Chat GPT by Open AI For Beginners](https://youtu.be/AXn2XVLf7d0)
   * (Article) [ChatGPT: how to use the viral AI chatbot that everyone’s talking about](https://www.digitaltrends.com/computing/how-to-use-openai-chatgpt-text-generation-chatbot/)
+  * (YouTube) [5 Secrets to Writing with Chat GPT (Use Responsibly)](https://youtu.be/k0xsloC86hk): A deeper look into potential uses for ChatGPT
 * (Article) [Google Cloud - What is Artificial Intelligence (AI)?](https://cloud.google.com/learn/what-is-artificial-intelligence): This a sales article for Google Cloud, but has a really good high level overview of types of A.I. and their applications.
+
+## Creators to follow
+Now that you have a basic understanding of A.I., here are some content creators you can follow to stay up to date and learn more about the field.
+- (TikTok Account) [Riley Brown](https://www.tiktok.com/@rileybrown.ai): TikToker covering A.I. news and the usage of many different A.I. tools.
+- (YouTube Channel) [David Shapiro](https://www.youtube.com/@DavidShapiroAutomator): Videos on using A.I. tools and interviews with professionals in the field.
 
 ## Prompt Engineering
 - https://www.youtube.com/watch?v=ekn5Tcqgs7o
-
-## Creators to follow
-- David Shapiro, great videos on using popular LLM and interviews of professionals in the field. https://www.youtube.com/@DavidShapiroAutomator
